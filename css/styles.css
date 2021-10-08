@@ -20,6 +20,7 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	margin-top: 38px;
+    font-family: Helvetica, sans-serif;
 }
 #logo {
 	float: left;
@@ -99,7 +100,7 @@
 	text-indent: 14px;
 	padding-top: 21px;
 	font-family: Charlemagne Std;
-	font-size:30px;
+	font-size:50px;
 }
 #wrapper .cms img {
 	float: left;
