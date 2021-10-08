@@ -71,6 +71,7 @@
 }
 #leftheader p {
 	font-size: 18px;
+    font-family: Helvetica, sans-serif;
 }
  
 #mainContainer {
@@ -98,7 +99,7 @@
 	text-indent: 14px;
 	padding-top: 21px;
 	font-family: Charlemagne Std;
-	font-size:16px;
+	font-size:30px;
 }
 #wrapper .cms img {
 	float: left;
