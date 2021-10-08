@@ -55,7 +55,7 @@
 	font-family: Charlemagne Std;
 	font-style: normal;
 	font-weight: 400;
-	background-image: url(../assets/Line.png);
+	background-image: url(../images/Line.png);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: auto 1px;
@@ -104,7 +104,7 @@
 	float: left;
 }
 #wrapper .cms a {
-	background-image: url(../assets/RArrow.png);
+	background-image: url(../images/RArrow.png);
 	background-repeat: no-repeat;
 	background-position: left center;
 	float: left;
